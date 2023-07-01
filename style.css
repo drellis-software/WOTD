@@ -1,0 +1,68 @@
+
+/*Citation: Dr. Schwesinger css rules from Project 8 are implemented into this styles.css */
+body{
+    margin:40px auto;
+    max-width:1000px;
+    line-height:1.6;
+    font-size:18px;
+    padding:0 10px;
+	
+}
+/*Citation: Dr. Schwesinger css rules from Project 8 are implemented into this styles.css */
+h1,h2,h3 {
+    line-height:1.2
+}
+/*Citation: Dr. Schwesinger css rules from Project 8 are implemented into this styles.css */
+label.block {
+    display: block;
+}
+/*Citation: Dr. Schwesinger css rules from Project 8 are implemented into this styles.css */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+/*Citation: Dr. Schwesinger css rules from Project 8 are implemented into this styles.css */
+td, th {
+    border: 2px solid;
+    text-align: left;
+    padding: 10px;
+	font-weight: bold;
+}
+
+/* navigation menu stuff */
+nav ul {
+  list-style-type: none;
+  margin: 10;
+  padding: 400;
+  overflow: hidden;
+  background-color: rgb(141, 20, 20);
+}
+/*Citation: Dr. Schwesinger css rules from Project 8 are implemented into this styles.css */
+nav ul li {
+  float: left;
+}
+/*Citation: Dr. Schwesinger css rules from Project 8 are implemented into this styles.css */
+nav ul li a {
+  display: inline-block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 1em 1em;
+  text-decoration: none;
+  font-weight: bold;
+}
+/*Citation: Dr. Schwesinger css rules from Project 8 are implemented into this styles.css */
+nav ul li a:hover {
+  background-color: darkgray;
+}
+/*Citation: Dr. Schwesinger css rules from Project 8 are implemented into this styles.css */
+input[type=text] {
+    border: 2px solid red;
+    border-radius: 4px;
+  }
+  
+  a{
+	display: block;
+	color: rgb(255, 255, 255);
+	text-decoration: none;
+	color: blue;
+ }
